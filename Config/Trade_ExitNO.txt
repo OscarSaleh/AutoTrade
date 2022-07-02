@@ -1,0 +1,1 @@
+Trade_Exit.txt - File used as a flag to Exit application.
