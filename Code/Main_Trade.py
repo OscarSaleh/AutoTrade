@@ -33,6 +33,9 @@
 #
 # ==================================================================================================================
 # Pending items:
+# - Set trades under different accounts.
+# - Remove global variable.
+# - Include aliases for accounts.
 # - Improve naming standards.
 #
 # ==================================================================================================================
@@ -43,6 +46,12 @@
 # Logic:
 # - The program retrieve and store stock prices in a repository.
 # - The Market Indicators (RSI) are calculated using prices at the exact time of the request.
+# - Orders are placed and traced for each order request until full cycle (buy and sell).
+# - Upon a full order cycle (buy and sell), the order request is enabled again.
+#
+# ==================================================================================================================
+# Manual:
+#  https://docs.google.com/document/d/172M_8yZioGCqQUkQoQqaoRXROKNZ13DzIemTIKMCAKw/edit
 #
 # ==================================================================================================================
 # RSI Calculation Periods to retrieve data.
