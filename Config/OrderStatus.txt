@@ -1,0 +1,64 @@
+          1         2         3         4         5         6         7         8         9        10        11        12        13        14        15        16        17        18        19        20        21        22        23        24        25        26        27|
+01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901
+--------------Order-------------- -----Account Description------ Seq --------------Triggers Buy--------- --------Triggers Sell-------- -Buy-- -------------------------Order Buy------------------------------ -------------------------Order Sell------------------------------
+Symb- -----Trade----- ---Type----                                    -Gap- ----------RSI---------- Price -----------RSI--------- Price Shares ----------RSI---------- Acct Number- Number --Price-- --Status-- ----------RSI---------- Acct Number- Number --Price-- --Status---
+           Period                                                      %   Wk  Day 4hr 1hr 30m 15m Adj % Wk  Day 4hr 1hr 30m 15m Adj %   $    Wk  Day 4hr 1hr 30m 15m              Shares   Share              Wk  Day 4hr 1hr 30m 15m              Shares   Share              
+XXXXX XXXXXXXXXXXXXXX XXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 999 9.999 999 999 999 999 999 999 9.999 999 999 999 999 999 999 9.999 999999 999 999 999 999 999 999 999999999999 999999 999999.99 AAAAAAAAAA 999 999 999 999 999 999 999999999999 999999 999999.99 AAAAAAAAAAA
+================================================================================================================================================================================================================================================================================
+IBM   1-Long          Conditional Ind. Margin     Oscar Saleh      1 0.005  30  30  30  30  30  30 0.999   0   0   0   0   0   0 1.200   4000 
+IBM   1-Long          Conditional IRA Roth        Oscar Saleh      2 0.005  30  30  30  30  30  30 0.999   0   0   0   0   0   0 1.200   4400 
+IBM   1-Long          Conditional IRA Tradicional Tatsiana Saleh   3 0.005  30  30  30  30  30  30 0.999   0   0   0   0   0   0 1.200   4800 
+IBM   2-Medium        Conditional IRA SEP         Jane Saleh       1 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1000 
+IBM   2-Medium        Conditional IRA SEP         Jane Saleh       2 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1100 
+IBM   2-Medium        Conditional IRA SEP         Jane Saleh       3 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1200 
+IBM   2-Medium        Conditional IRA SEP         Jane Saleh       4 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1300 
+IBM   2-Medium        Single      IRA Tradicional Oscar Saleh      1 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1000 
+IBM   2-Medium        Single      IRA Tradicional Oscar Saleh      2 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1100 
+IBM   2-Medium        Single      IRA Tradicional Oscar Saleh      3 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1200 
+IBM   2-Medium        Single      IRA Tradicional Oscar Saleh      4 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1300 
+IBM   3-Short         Conditional Ind. Margin     Jane Saleh       1 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1000 
+IBM   3-Short         Conditional Ind. Margin     Jane Saleh       2 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1100 
+IBM   3-Short         Conditional Ind. Margin     Jane Saleh       3 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1200 
+IBM   3-Short         Conditional Ind. Margin     Jane Saleh       4 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1300 
+IBM   3-Short         Single      Ind. Margin     Oscar Saleh      1 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1000 
+IBM   3-Short         Single      Ind. Margin     Oscar Saleh      2 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1100 
+IBM   3-Short         Single      Ind. Margin     Oscar Saleh      3 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1200 
+IBM   3-Short         Single      Ind. Margin     Oscar Saleh      4 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1300 
+MSTR  1-Long          Conditional Ind. Margin     Oscar Saleh      1 0.005  30  30  30  30  30  30 0.999   0   0   0   0   0   0 1.200   4000 
+MSTR  1-Long          Conditional IRA Roth        Oscar Saleh      2 0.005  30  30  30  30  30  30 0.999   0   0   0   0   0   0 1.200   4400 
+MSTR  1-Long          Conditional IRA Tradicional Tatsiana Saleh   3 0.005  30  30  30  30  30  30 0.999   0   0   0   0   0   0 1.200   4800 
+MSTR  2-Medium        Conditional IRA SEP         Jane Saleh       1 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1000 
+MSTR  2-Medium        Conditional IRA SEP         Jane Saleh       2 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1100 
+MSTR  2-Medium        Conditional IRA SEP         Jane Saleh       3 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1200 
+MSTR  2-Medium        Conditional IRA SEP         Jane Saleh       4 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1300 
+MSTR  2-Medium        Single      IRA Tradicional Oscar Saleh      1 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1000 
+MSTR  2-Medium        Single      IRA Tradicional Oscar Saleh      2 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1100 
+MSTR  2-Medium        Single      IRA Tradicional Oscar Saleh      3 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1200 
+MSTR  2-Medium        Single      IRA Tradicional Oscar Saleh      4 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1300 
+MSTR  3-Short         Conditional Ind. Margin     Jane Saleh       1 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1000 
+MSTR  3-Short         Conditional Ind. Margin     Jane Saleh       2 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1100 
+MSTR  3-Short         Conditional Ind. Margin     Jane Saleh       3 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1200 
+MSTR  3-Short         Conditional Ind. Margin     Jane Saleh       4 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1300 
+MSTR  3-Short         Single      Ind. Margin     Oscar Saleh      1 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1000 
+MSTR  3-Short         Single      Ind. Margin     Oscar Saleh      2 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1100 
+MSTR  3-Short         Single      Ind. Margin     Oscar Saleh      3 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1200 
+MSTR  3-Short         Single      Ind. Margin     Oscar Saleh      4 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1300 
+TSLA  1-Long          Conditional Ind. Margin     Oscar Saleh      1 0.005  30  30  30  30  30  30 0.999   0   0   0   0   0   0 1.200   4000 
+TSLA  1-Long          Conditional IRA Roth        Oscar Saleh      2 0.005  30  30  30  30  30  30 0.999   0   0   0   0   0   0 1.200   4400 
+TSLA  1-Long          Conditional IRA Tradicional Tatsiana Saleh   3 0.005  30  30  30  30  30  30 0.999   0   0   0   0   0   0 1.200   4800 
+TSLA  2-Medium        Conditional IRA SEP         Jane Saleh       1 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1000 
+TSLA  2-Medium        Conditional IRA SEP         Jane Saleh       2 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1100 
+TSLA  2-Medium        Conditional IRA SEP         Jane Saleh       3 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1200 
+TSLA  2-Medium        Conditional IRA SEP         Jane Saleh       4 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1300 
+TSLA  2-Medium        Single      IRA Tradicional Oscar Saleh      1 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1000 
+TSLA  2-Medium        Single      IRA Tradicional Oscar Saleh      2 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1100 
+TSLA  2-Medium        Single      IRA Tradicional Oscar Saleh      3 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1200 
+TSLA  2-Medium        Single      IRA Tradicional Oscar Saleh      4 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1300 
+TSLA  3-Short         Conditional Ind. Margin     Jane Saleh       1 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1000 
+TSLA  3-Short         Conditional Ind. Margin     Jane Saleh       2 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1100 
+TSLA  3-Short         Conditional Ind. Margin     Jane Saleh       3 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1200 
+TSLA  3-Short         Conditional Ind. Margin     Jane Saleh       4 0.005  40  40  40  35  35  35 0.999   0   0   0   0   0   0 1.100   1300 
+TSLA  3-Short         Single      Ind. Margin     Oscar Saleh      1 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1000 
+TSLA  3-Short         Single      Ind. Margin     Oscar Saleh      2 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1100 
+TSLA  3-Short         Single      Ind. Margin     Oscar Saleh      3 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1200 
+TSLA  3-Short         Single      Ind. Margin     Oscar Saleh      4 0.005  40  40  40  35  35  35 0.999  60  60  60  65  65  65 1.015   1300 

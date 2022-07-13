@@ -1,0 +1,11 @@
+acct   account
+app    application
+cntr   counter
+config configuration
+desc   description
+func   function
+info   information
+int    integer
+lst    list
+seq    sequence
+symb   symbol

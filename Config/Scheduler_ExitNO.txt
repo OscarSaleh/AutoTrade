@@ -1,1 +1,3 @@
-Scheduler_Exit.txt - File used as a flag to Exit application.
+Scheduler_Exit.txt - Filename used as a flag to exit the application.
+If filename Scheduler_Exit.txt exists, the program is terminated as soon as possible (there is a delay to save files).
+This is a safety mechanism used for debugging or testing. 

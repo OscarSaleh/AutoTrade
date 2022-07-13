@@ -1,1 +1,3 @@
-PlaceBuyOrders.txt - File used as a flag to Place Buy Orders in application. 
+PlaceBuyOrders.txt - Filename used as a flag to place buy orders by the application. 
+If filename PlaceBuyOrders.txt does not exist, the orders are not placed.
+This is a safety mechanism used for debugging or testing. 

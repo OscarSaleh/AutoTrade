@@ -1,1 +1,3 @@
-Trade_Exit.txt - File used as a flag to Exit application.
+Trade_Exit.txt - Filename used as a flag to exit application.
+If the filename Trade_Exit.txt exists, the application will end upon completion of current cycle. 
+This is a safety mechanism used for debugging or testing. 
