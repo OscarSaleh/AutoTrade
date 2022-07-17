@@ -64,3 +64,524 @@ Delete and rewrite file with Historical Prices IBM
 Delete and rewrite file with Historical Prices MSTR
 Delete and rewrite file with Historical Prices TSLA
 The End
+str_isOpen             : False
+dt_trading_timestamp: 2022-07-16 00:14:19.405189 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:29.231418 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:32.527072 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:35.752434 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:38.955664 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:42.061531 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:45.175945 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:48.359861 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:51.484064 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:54.660724 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:15:58.324568 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:16:02.103755 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:16:05.275019 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:16:08.390711 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:16:11.643078 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:16:14.761100 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 00:16:17.959592 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+Delete and rewrite file with Historical Prices IBM
+Delete and rewrite file with Historical Prices MSTR
+Delete and rewrite file with Historical Prices TSLA
+The End
+str_isOpen             : False
+dt_trading_timestamp: 2022-07-16 00:37:10.053671 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.29 53.06 61.75 63.74 62.95 58.30  213.75 
+TSLA  43.70 50.59 53.44 53.95 51.34 44.81  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+Delete and rewrite file with Historical Prices IBM
+Delete and rewrite file with Historical Prices MSTR
+Delete and rewrite file with Historical Prices TSLA
+The End
+str_isOpen             : False
+dt_trading_timestamp: 2022-07-16 00:59:20.945891 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:31.007141 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:34.532948 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:37.803749 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:41.036086 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:44.194126 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:47.246058 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:50.380959 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:53.449416 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:56.562070 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:00:59.761122 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:01:02.834455 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:01:05.942523 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:01:09.134044 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 01:01:12.244263 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   57.04 55.28 57.70 67.38 67.64 68.88  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+Delete and rewrite file with Historical Prices IBM
+Delete and rewrite file with Historical Prices MSTR
+Delete and rewrite file with Historical Prices TSLA
+The End
+str_isOpen             : False
+dt_trading_timestamp: 2022-07-16 01:09:57.026827 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+Delete and rewrite file with Historical Prices IBM
+Delete and rewrite file with Historical Prices MSTR
+Delete and rewrite file with Historical Prices TSLA
+The End
+str_isOpen             : False
+dt_trading_timestamp: 2022-07-16 01:14:55.609408 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  139.92 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+Delete and rewrite file with Historical Prices IBM
+Delete and rewrite file with Historical Prices MSTR
+Delete and rewrite file with Historical Prices TSLA
+The End
+str_isOpen             : False
+dt_trading_timestamp: 2022-07-16 22:29:37.822760 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:34:50.180945 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:35:11.531140 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:35:25.563657 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:35:39.477026 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:35:53.130095 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:36:06.917253 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:36:20.544482 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:36:34.407573 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:36:48.107191 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:37:01.959747 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:37:15.648746 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 22:37:28.673869 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+Delete and rewrite file with Historical Prices AAPL
+Delete and rewrite file with Historical Prices ABEV
+Delete and rewrite file with Historical Prices ASML
+Delete and rewrite file with Historical Prices CIM
+Delete and rewrite file with Historical Prices EBAY
+Delete and rewrite file with Historical Prices ETG
+Delete and rewrite file with Historical Prices ETO
+Delete and rewrite file with Historical Prices ETW
+Delete and rewrite file with Historical Prices GE
+Delete and rewrite file with Historical Prices GOOGL
+Delete and rewrite file with Historical Prices IBM
+Delete and rewrite file with Historical Prices MSTR
+Delete and rewrite file with Historical Prices TSLA
+The End
+str_isOpen             : False
+dt_trading_timestamp: 2022-07-16 23:19:34.571692 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 23:24:39.029657 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+dt_trading_timestamp: 2022-07-16 23:25:00.216543 str_user_id: ofsindmar str_time_delay_process: 0.5
+Symb     Wk   Day   4hr   1hr   30m   15m    Last
+AAPL  48.47 60.46 67.69 65.45 65.81 60.84  150.05 
+ABEV  45.09 51.56 55.45 50.17 45.60 41.36    2.65 
+ASML  35.79 48.15 64.50 75.87 73.63 70.20  476.00 
+CIM   32.52 50.25 54.61 56.43 58.29 58.84    9.14 
+EBAY  34.68 48.74 55.50 63.27 63.32 59.39   43.63 
+ETG   34.93 39.73 42.03 39.51 37.12 31.99   16.14 
+ETO   36.84 50.26 55.40 57.72 62.52 64.37   22.85 
+ETW   37.22 54.70 58.03 62.10 63.92 67.24    8.58 
+GE    28.68 39.75 53.13 63.44 72.08 66.19   63.00 
+GOOGL 43.01 47.83 46.31 53.34 58.12 60.51 2242.80 
+IBM   56.60 54.22 54.96 64.55 67.87 67.08  141.00 
+MSTR  37.28 53.03 61.15 62.53 64.72 62.26  213.75 
+TSLA  43.75 50.74 53.86 55.32 54.28 50.24  718.00 
+Symb  Period           Wk Day 4hr 1hr 30m 15m  Status   Buy%  Wk Day 4hr 1hr 30m 15m   Sell%  Status Wk Day 4hr 1hr 30m 15m Rep.T. R.Buy R.Sell
+Delete and rewrite file with Historical Prices AAPL
+Delete and rewrite file with Historical Prices ABEV
+Delete and rewrite file with Historical Prices ASML
+Delete and rewrite file with Historical Prices CIM
+Delete and rewrite file with Historical Prices EBAY
+Delete and rewrite file with Historical Prices ETG
+Delete and rewrite file with Historical Prices ETO
+Delete and rewrite file with Historical Prices ETW
+Delete and rewrite file with Historical Prices GE
+Delete and rewrite file with Historical Prices GOOGL
+Delete and rewrite file with Historical Prices IBM
+Delete and rewrite file with Historical Prices MSTR
+Delete and rewrite file with Historical Prices TSLA
+The End

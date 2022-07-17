@@ -53,7 +53,6 @@
 # ==================================================================================================================
 # Documentation:
 #  Manual: https://docs.google.com/document/d/172M_8yZioGCqQUkQoQqaoRXROKNZ13DzIemTIKMCAKw/edit
-#  Orders: https://docs.google.com/spreadsheets/d/1gfmXd9SXwHfdbDlGTuuaW54lbhm8ahqiZWY2TanTRyA/edit#gid=0
 #
 # ==================================================================================================================
 # RSI Calculation Periods to retrieve data.
@@ -1889,11 +1888,10 @@ def func_get_account(str_account_desc):
            return(tup_account[0])
 
 if __name__ == "__main__":
-
     # sys.exit()  # Exit
 
     # global variables
-    global obj_ListLineOrderStatus, obj_ListLineMarketIndicators, obj_ListLineBuySellStatus, str_valid_ListLineOrderStatus
+    #global obj_ListLineOrderStatus, obj_ListLineMarketIndicators, obj_ListLineBuySellStatus, str_valid_ListLineOrderStatus
     obj_ListLineOrderStatus       = cls_ListLineOrderStatus()
     obj_ListLineMarketIndicators  = cls_ListLineMarketIndicators()
     obj_ListLineBuySellStatus     = cls_ListLineBuySellStatus()
@@ -1915,37 +1913,37 @@ if __name__ == "__main__":
     io_read_file_Config = configparser.ConfigParser()
     io_read_file_Config.read(str_path_dir_Config + "\Trade_Config.ini")
 
-    global int_debug  # 0 no events, 1 high level events, 50 medium level events, 100 small events (all)
+    #global int_debug  # 0 no events, 1 high level events, 50 medium level events, 100 small events (all)
     str_debug = io_read_file_Config.get("App Config", "str_debug")
     int_debug = int(str_debug)
     func_display_info(50, "Both", ["str_debug >>>" + str_debug + "<<<"])
 
-    global float_time_delay_io
+    #global float_time_delay_io
     str_time_delay_io = io_read_file_Config.get("App Config", "str_time_delay_io")
     float_time_delay_io = float(str_time_delay_io)
     func_display_info(50, "Both", ["str_time_delay_io >>>" + str_time_delay_io + "<<<"])
 
-    global float_time_delay_process
+    #global float_time_delay_process
     str_time_delay_process = io_read_file_Config.get("App Config", "str_time_delay_process")
     float_time_delay_process = float(str_time_delay_process)
     func_display_info(50, "Both", ["str_time_delay_process >>>" + str_time_delay_process + "<<<"])
 
-    global int_max_retries
+    #global int_max_retries
     str_max_retries = io_read_file_Config.get("App Config", "str_max_retries")
     int_max_retries = int(str_max_retries)
     func_display_info(50, "Both", ["str_max_retries >>>" + str_max_retries + "<<<"])
 
-    global int_token_access_time_limit, str_token_access
+    #global int_token_access_time_limit, str_token_access
     str_token_access_time_limit = io_read_file_Config.get("App Config", "str_token_access_time_limit")
     int_token_access_time_limit = int(str_token_access_time_limit)
     func_display_info(50, "Both", ["str_token_access_time_limit >>>" + str_token_access_time_limit + "<<<"])
 
-    global int_token_refresh_time_limit, str_token_refresh
+    #global int_token_refresh_time_limit, str_token_refresh
     str_token_refresh_time_limit = io_read_file_Config.get("App Config", "str_token_refresh_time_limit")
     int_token_refresh_time_limit = int(str_token_refresh_time_limit)
     func_display_info(50, "Both", ["str_token_refresh_time_limit >>>" + str_token_refresh_time_limit + "<<<"])
 
-    global str_consumer_key
+    #global str_consumer_key
     str_consumer_key = io_read_file_Config.get("App Config", "str_consumer_key")
     func_display_info(50, "Both", ["str_consumer_key >>>" + str_consumer_key + "<<<"])
 
@@ -1971,7 +1969,7 @@ if __name__ == "__main__":
         func_display_info(-1, "Both", ["-" * 128])
     func_display_info(50, 'Both', ['. . . Verify Necessary Files Exist'])
 
-    global lst_stock_regularMarketOnly_OTC_list  # list of stocks with restrictions to place single limit orders (only allowed during regularMarket)
+    #global lst_stock_regularMarketOnly_OTC_list  # list of stocks with restrictions to place single limit orders (only allowed during regularMarket)
     lst_stock_regularMarketOnly_OTC = io_read_file_Config.get("TD Ameritrade", "lst_stock_regularMarketOnly_OTC")
     func_display_info(50, "Both", ["lst_stock_regularMarketOnly_OTC >>>" + lst_stock_regularMarketOnly_OTC + "<<<"])
     lst_stock_regularMarketOnly_OTC_list = json.loads(lst_stock_regularMarketOnly_OTC)
@@ -1983,8 +1981,8 @@ if __name__ == "__main__":
     obj_ListLineBuySellStatus.initial_load(obj_ListLineOrderStatus)
     str_valid_ListLineOrderStatus = 'YesValid'
 
-    global bool_isOpen, dt_preMarket_start, dt_preMarket_end, dt_regularMarket_start, dt_regularMarket_end, dt_postMarket_start, dt_postMarket_end
-    global dt_trading_timestamp, bool_preMarket, bool_regularMarket, bool_postMarket
+    #global bool_isOpen, dt_preMarket_start, dt_preMarket_end, dt_regularMarket_start, dt_regularMarket_end, dt_postMarket_start, dt_postMarket_end
+    #global dt_trading_timestamp, bool_preMarket, bool_regularMarket, bool_postMarket
     dt_trading_timestamp = datetime.today() + timedelta(minutes=60)
     api_GetMarketHours(dt_trading_timestamp)
 
